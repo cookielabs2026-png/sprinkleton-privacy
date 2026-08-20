@@ -1,0 +1,5 @@
+{
+  "_readme": "Sprinkleton live tuning. Fetched once per app boot; missing keys fall back to the values shipped in the build. levelMoves keys are 1-based level numbers.",
+  "levelMoves": {},
+  "freeCoinCdMs": 300000
+}
